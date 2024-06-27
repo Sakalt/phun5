@@ -476,7 +476,7 @@
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "灼陽。"
+        "explanation": "燃陽。"
       }
     ],
     "append": [
@@ -493,7 +493,7 @@
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "永球月。"
+        "explanation": "マリエ球月。"
       }
     ],
     "append": [
@@ -502,7 +502,7 @@
         "explanation": ""
       }
     ],
-    "pron": "vo2 vas1",
+    "pron": "vo3 yo2",
     "num": "-"
   },
   {
@@ -510,7 +510,7 @@
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "霞星。"
+        "explanation": "霧星。"
       }
     ],
     "append": [
@@ -519,7 +519,7 @@
         "explanation": ""
       }
     ],
-    "pron": "sing1 vas1",
+    "pron": "qe3 yo2",
     "num": "-"
   },
   {
@@ -527,7 +527,7 @@
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "焔星。"
+        "explanation": "灼星。"
       }
     ],
     "append": [
@@ -536,7 +536,7 @@
         "explanation": ""
       }
     ],
-    "pron": "tang2 vas1",
+    "pron": "fa1 yo2",
     "num": "-"
   },
   {
@@ -544,7 +544,7 @@
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "永球。"
+        "explanation": "ま球。"
       }
     ],
     "append": [
@@ -553,7 +553,7 @@
         "explanation": ""
       }
     ],
-    "pron": "qim3 luong3",
+    "pron": "kin2 luang3",
     "num": "-"
   },
   {
@@ -561,7 +561,7 @@
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "瀧星。"
+        "explanation": "海星。"
       }
     ],
     "append": [
@@ -570,7 +570,7 @@
         "explanation": ""
       }
     ],
-    "pron": "so3 vas1",
+    "pron": "hu1 yo2",
     "num": "-"
   },
   {
@@ -578,7 +578,7 @@
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "穀星。"
+        "explanation": "土星。"
       }
     ],
     "append": [
@@ -587,15 +587,15 @@
         "explanation": ""
       }
     ],
-    "pron": "ao3 vas1",
+    "pron": "je2 yo2",
     "num": "-"
   },
   {
-    "word": "木天",
+    "word": "森天",
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "森星。"
+        "explanation": "森天星。"
       }
     ],
     "append": [
@@ -604,7 +604,7 @@
         "explanation": ""
       }
     ],
-    "pron": "lung2 vas1",
+    "pron": "yul3 yo2",
     "num": "-"
   },
   {
@@ -612,7 +612,7 @@
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "山神星。"
+        "explanation": "山星。"
       }
     ],
     "append": [
@@ -621,15 +621,15 @@
         "explanation": ""
       }
     ],
-    "pron": "das1 vas1",
+    "pron": "ve2 yo2",
     "num": "-"
   },
   {
-    "word": "雲天",
+    "word": "雨天",
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "雲神星。"
+        "explanation": "霧神星。"
       }
     ],
     "append": [
@@ -638,7 +638,7 @@
         "explanation": ""
       }
     ],
-    "pron": "pu2 vas1",
+    "pron": "paong2 yo2",
     "num": "-"
   },
   {
@@ -646,7 +646,7 @@
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "氷神星。"
+        "explanation": "氷星。"
       }
     ],
     "append": [
@@ -655,7 +655,7 @@
         "explanation": ""
       }
     ],
-    "pron": "hua1 vas1",
+    "pron": "i1 yo2",
     "num": "-"
   },
   {
@@ -672,7 +672,7 @@
         "explanation": ""
       }
     ],
-    "pron": "vas1 sao2",
+    "pron": "yo2 san3",
     "num": "-"
   },
   {
